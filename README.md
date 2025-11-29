@@ -92,7 +92,7 @@ But it can grow into something unforgettable.
 
 ## Why It Stands Out
 
-  
+
 It was made with both attention and intention.
 
 The layout separates **narrative** from **visual memory**, making learning natural and memorable — like walking through a cosmic exhibit instead of reading a flat page.
