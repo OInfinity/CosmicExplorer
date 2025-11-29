@@ -73,15 +73,15 @@ No setup. No dependencies. Pure front-end execution.
 
 ---
 
-## Roadmap
+## Checked
 
-| Feature | Status |
+| Feature  |
 |--------|:------:|
-| Scroll-synced auto image switching | 🔜 Upcoming |
-| Fade-in scroll reveal animations | 🔜 Upcoming |
-| Ambient audio & space SFX | 🔜 Future |
-| Full-screen gallery mode | 🔜 Future |
-| Parallax starfield background | 🔜 Future |
+| Scroll-synced auto image switching |  
+| Fade-in scroll reveal animations | 
+| Ambient audio & space SFX | 
+| Full-screen gallery mode | 
+| Parallax starfield background | 
 
 The experience is already strong.  
 But it can grow into something unforgettable.
