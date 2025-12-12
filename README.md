@@ -2,9 +2,7 @@
 
 Source code -> coming soon...
 
-Live Video 
-
-🔴🎥 https://www.ifweb.space/watch/693b78039de5e355b2277b34
+🔴🎥 Live Video https://www.ifweb.space/watch/693b78039de5e355b2277b34
 
 HTML/CSS/JS Multimedia Project
 
