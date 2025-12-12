@@ -105,7 +105,7 @@ The layout separates **narrative** from **visual memory**, making learning natur
 Users don’t just consume space history.  
 They *experience* it.
 
-🔗🟢 Live Link
+🟢🔗 Live Link
 https://www.ifweb.space/watch/693b78039de5e355b2277b34
 ---
 
