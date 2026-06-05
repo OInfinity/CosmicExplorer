@@ -1,6 +1,6 @@
 # CosmicExplorer
 
-Source code -> coming soon...
+Focus -> how a multimedia application behaves, what it needs to cover
 
 🔴🎥 Live Video https://www.ifweb.space/watch/693b78039de5e355b2277b34
 
